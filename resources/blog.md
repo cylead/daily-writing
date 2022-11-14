@@ -1,0 +1,3 @@
+### 科研
+1. [Terrence Tao](https://terrytao.wordpress.com/): 除了严肃的数学研究之外，还有非常丰富的内容，包括[职业生涯](https://terrytao.wordpress.com/career-advice/)，[如何做数学研究](https://terrytao.wordpress.com/career-advice/does-one-have-to-be-a-genius-to-do-maths/)，[写作](https://terrytao.wordpress.com/advice-on-writing-papers/)，[时间管理](https://terrytao.wordpress.com/2008/08/07/on-time-management/)等等。
+2.[Andrej Karpathy](http://karpathy.github.io/) [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
