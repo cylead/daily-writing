@@ -49,5 +49,8 @@ only the training set is used
 有一些数据是线性不可分的，那么引入非线性或者使用其他技巧（如svm软间隔）就可以了。
 stop at p489
 
-#### 
+### 41 Learning as Inference
+Uses a two dimensional parameter example w to show the difference between MLE and bayesian inference. Figure 41.2 are the results.
+
+stop at 41.3, the following parts are different methods to help calculate the intractable bayesian predictions.
 
