@@ -98,8 +98,10 @@ When the gradient can be calculated.
 #### Classification
 
 Left: 
-simulation of Figure 45.1
+simulation of:
+Figure 45.1
 45.55
-45.2
+45.2 
+
 
 
