@@ -54,3 +54,52 @@ Uses a two dimensional parameter example w to show the difference between MLE an
 
 stop at 41.3, the following parts are different methods to help calculate the intractable bayesian predictions.
 
+### 45 Gaussian Processes
+Introduce the "function space" to replace "parameter space" in the bayesian inference framework.
+
+Reservations: equivalency between NN and GP? computational cost?
+#### 45.1 Standard methods for nonlinear regression
+parametric approaches:
+nonparametric approaches: 
+example: spline smoothing method
+$$M(y(x)) = \frac{1}{2}\beta \sum _{n=1}^{N}(y(x^{(n)})-t_n)^2 + \frac{1}{2}\int [y^{(p)}(x)]^2$$
+$p$th derivative
+
+Splines prior are Gaussian process.
+
+45.12, 45.13, below
+
+#### 45.2 From parametric models to Gaussian processes
+
+$y$ linear on $w$,
+$$y = Rw$$ 
+consider the prior of w, $N(0, \sigma _{w}^2 I)$ then $p(y) 
+\sim N(0, \sigma _{w}^2I  RR^T)$
+Consider the nosie on t, which also makes the Cov matrix full rank,
+final result 45.26
+some sampling results
+#### 45.3 Using a given Gaussian process model in regression
+45.42, 45.43
+and some computation complexity analysis
+#### Examples of Covariance functions
+literature: 
+2013 Gaussian process kernels for pattern discovery and extrapolation
+Abrahamsen (1997)
+
+FT of a Gaussian is a Gaussian:
+https://math.stackexchange.com/questions/1267007/inverse-fourier-transform-of-gaussian
+
+Stationary Covariance functions
+nonstationary covariance functions
+#### Adaptation of GP models
+Learn parameters in GP
+When the gradient can be calculated.
+
+#### Classification
+
+Left: 
+simulation of Figure 45.1
+45.55
+45.2
+
+
