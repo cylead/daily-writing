@@ -1,6 +1,7 @@
 https://www.bilibili.com/video/BV1PZ4y1W7Te/?vd_source=ac984eab98b0b7f6b74edce976d68d53
 
 Minimalism, a documentary about the import things
+netflix minimalism
 
 ### what is minimalism?
 Every possession has a purpose and brings you happiness.
