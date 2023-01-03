@@ -94,14 +94,13 @@ nonstationary covariance functions
 #### Adaptation of GP models
 Learn parameters in GP
 When the gradient can be calculated.
-
 #### Classification
 
 Left: 
 simulation of:
 Figure 45.1
 45.55
-45.2 
+45.2 w
 
 
 
