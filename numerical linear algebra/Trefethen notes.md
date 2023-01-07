@@ -7,16 +7,16 @@ $A^{-1}b$ is the unique vector of coefficients of the expansion of $b$ in the ba
 Or in short, change of basis:
 ![picture 1](../images/95e1a789d372541836760d0b918cd270bb4aef63da23d824022ebda06b064b9d.png)
 
-How to prove row rank and column rank are the same? SVD, both equal to the rank of $\Sigma$
+How to prove row rank and column rank are the same? SVD, both equal to the rank of $\Sigma$.
 
-The multiplication of a unitary matrix preserves the inner product and the 2-norm and Frobenous norm.
+The multiplication of a unitary matrix preserves the inner product and the 2-norm and Frobenius norm.
 $$\|QA\|_2 = \|A\|_2, \|QA\|_F = \|A\|_F$$
 In the real case, it is a rotation ($det Q = 1$) or reflection ($det Q = -1$).
 
 ### Norms
 "The Sergei plaza in Stockholm, Sweden has the shape of the unit ball in the 4-norm."
 
-Notation difference: subscripts with parenthesis are matrix demension notation, otherwise it is the norm notation.
+Notation difference: subscripts with parenthesis are matrix dimension notation, otherwise it is the norm notation.
 There are two ways to define matrix norm:
 
 1. Induced matrix norms. Define as the maximum factor by which $A$ can "stretch" a vector $x$.
@@ -35,7 +35,7 @@ These norms are named as p-Norm.
 Property:
 $$\|A\|_F = \sqrt{tr(A^*A)} = \sqrt{tr(AA^*)}$$
 
-Both the induced matrix norm and the Frobenius norm is sub-multiplicative. (3.14) and (3.18) below. But the induced matrix norm can not make should the equality holds.
+Both the induced matrix norm and the Frobenius norm are sub-multiplicative. (3.14) and (3.18) below. But the induced matrix norm can not make should the equality holds.
 
 ### SVD
 
