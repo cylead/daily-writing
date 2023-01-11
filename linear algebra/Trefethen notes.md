@@ -11,6 +11,7 @@ How to prove row rank and column rank are the same? SVD, both equal to the rank 
 
 The multiplication of a unitary matrix preserves the inner product and the 2-norm and Frobenius norm.
 $$\|QA\|_2 = \|A\|_2, \|QA\|_F = \|A\|_F$$
+(Theorem 3.1)
 In the real case, it is a rotation ($det Q = 1$) or reflection ($det Q = -1$).
 
 ### Norms
@@ -39,7 +40,14 @@ Both the induced matrix norm and the Frobenius norm are sub-multiplicative. (3.1
 
 ### SVD
 
+The idea to introduce SVD will leads to the reduced SVD:
+$$Av_j = \sigma_ju_j, 1\leq j \leq n$$
+(If $A$ is full rank)
+Together with the linear transformation idea that "**The image of the unit sphere under any $m\times n$ matrix is a hyperellipse**", we can select a set of orthonormal vectors $v_j$ to get the streched orthonormal vectors $u_j$.
 
+The unite sphere transformed to hyperellipse idea can be verified by the SVD itself:
+$$A = U\Sigma V^*$$
+First $V$, then $\Sigma$, $U$...
 
 
 
