@@ -1,5 +1,7 @@
 ## Part I Fundamentals
+
 ### Matrix
+
 New terms: range (row space), adjoint/hermitian conjugate $A^*$, hermitian matrix, unitary matrices,
 
 Matrix inverse times a vector interpretation:
@@ -9,12 +11,14 @@ Or in short, change of basis:
 
 How to prove row rank and column rank are the same? SVD, both equal to the rank of $\Sigma$.
 
-The multiplication of a unitary matrix preserves the inner product and the 2-norm and Frobenius norm.
+The multiplication of a unitary matrix preserves the inner product, so it preserves the 2-norm. In the case of real matrix, it could be understood as rotation ($det Q = 1$)/reflection operation ($det Q = -1$).
+
+For the matrix norm, it also preserves the 2-norm and Frobenius norm. For the 2-norm, it is because rotation does not impact how the matrix will stretch the vector. For the Frobenius norm, it can be proved by just summing up $\|QA_i\|$, which is the preserved vector 2-norm.
 $$\|QA\|_2 = \|A\|_2, \|QA\|_F = \|A\|_F$$
 (Theorem 3.1)
-In the real case, it is a rotation ($det Q = 1$) or reflection ($det Q = -1$).
 
 ### Norms
+
 "The Sergei plaza in Stockholm, Sweden has the shape of the unit ball in the 4-norm."
 
 Notation difference: subscripts with parenthesis are matrix dimension notation, otherwise it is the norm notation.
@@ -49,7 +53,11 @@ The unite sphere transformed to hyperellipse idea can be verified by the SVD its
 $$A = U\Sigma V^*$$
 First $V$, then $\Sigma$, $U$...
 
+change of basis understanding of SVD
 
+SVD vs eigenvalue decomposition: p33
+
+SVD provides the low rank Approximation of a matrix that captures as much as the energy of the matrix as possible.
 
 ## Part III Conditioning and Stability
 
