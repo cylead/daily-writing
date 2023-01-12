@@ -44,7 +44,7 @@ Both the induced matrix norm and the Frobenius norm are sub-multiplicative. (3.1
 
 ### SVD
 
-The idea to introduce SVD will leads to the reduced SVD:
+The idea to introduce SVD will lead to the reduced SVD:
 $$Av_j = \sigma_ju_j, 1\leq j \leq n$$
 (If $A$ is full rank)
 Together with the linear transformation idea that "**The image of the unit sphere under any $m\times n$ matrix is a hyperellipse**", we can select a set of orthonormal vectors $v_j$ to get the streched orthonormal vectors $u_j$.
@@ -58,6 +58,8 @@ change of basis understanding of SVD
 SVD vs eigenvalue decomposition: p33
 
 SVD provides the low rank Approximation of a matrix that captures as much as the energy of the matrix as possible.
+
+Application of SVD: determing the rank, finding accurate orthonormal basis, calculating norm, and other problems.
 
 ## Part III Conditioning and Stability
 
