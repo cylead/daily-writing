@@ -61,6 +61,9 @@ SVD provides the low rank Approximation of a matrix that captures as much as the
 
 Application of SVD: determing the rank, finding accurate orthonormal basis, calculating norm, and other problems.
 
+## Part II QR Factorization and Least Squares
+
+
 ## Part III Conditioning and Stability
 
 ### lecture 12

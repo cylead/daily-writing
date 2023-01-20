@@ -61,8 +61,19 @@ SVD is not unique! S is, but eg you can use (-U) and (0Uh)
 NMF:
 (document, word) = (document, topic)(topic, word)
 
+How to do truncated SVD?
+
+## lecture 4 randomized SVD & robust PCA
+running complexity for SVD
+to make it faster, use randomized SVD
+Idea:
+$$A \approx QQ_TA$$
+Then do SVD to $Q_T A$
+
+Johnson-Lindenstrauss Lemma
+
 ## lecture 8 how to implement least squares
-My confusion: why does an equation thas has no solution becomes to be solvable?
+My confusion: why does an equation that has no solution becomes to be solvable?
 The rules of matrix equations and algebra equations are different. For algebra equations, you can multiply each side by a non-negative term and the solution remains the original one. For a matrix equation, when you multiply a matrix on each side, the unsolvable equation may become solvable. Eg, Ax=b, BAx = Bb, B does a linear transformation to A, which changes the space that A spans and the equation may be solvable.
 
 For normal equations, QR, SVD methods that solve the least squares problem, there is always one step to multiply each side one matrix which makes the original problem a new solvable one.
