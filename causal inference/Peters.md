@@ -30,4 +30,6 @@ There are some insights mentioned in the historical notes and physical structure
 
 $\mathfrak{C}$
 ### ch3 Cause-Effect Models
-
+1. what is structure identifiability?
+Can the causal structure be identified from when joint distribution? 
+2. how to do it?
