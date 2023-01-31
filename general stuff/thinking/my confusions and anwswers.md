@@ -8,3 +8,18 @@
 搞清楚这些之后，我意识到“解答困惑“或者“解决问题”本身的重要性。对于日常生活而言，举羽毛球的例子，我们有强身健体和人际交往的需求，所以我们打羽毛球。对于科研来说，你自己对一个问题很迷惑，或是你的教授，你的合作者对一个问题很迷惑，那么这些问题都值得去做，至于它有没有对更大的群体有影响，并不重要，利他是利他，虚荣是虚荣。
 
 我还想到了另一个方法去说明数量并不重要，“子非鱼，安知鱼之乐也”，“很多人都会对一个问题感兴趣”是一个妄想，因为你不是他们，也不能和他们近距离交流，你如何猜测某个问题是是真正困扰他们的呢？与其纠结与这些，不如踏踏实实地解决手头的问题，况且有那么多的研究从后世看来是超脱时代的，需要时间来证明其重要性。
+
+### purpose of life
+1. Who are you? 
+   Cheng Yang
+2. What do you do and what do you love to do?
+   Discover insight (causality) from data.
+3. Who you do it for?
+   Any one who wants to get more understanding and verify them by data in their domain.
+4. What those people want and need?
+   Knowledge/insight/wisdom.
+5. How do they change as a result of what I give them?
+   They get new insight or have their ideas verified by data.
+
+### 睡觉起来感觉肌肉无力
+不同的活动有不同的目的，睡觉起来感觉肌肉无力可能取决于这段时间的身体状态，而不仅仅是睡眠质量。睡觉的目的更多地在于让大脑休息，所以睡到足够时间醒来后感到肌肉无力最好的缓解方式是起床热身，而不是继续睡。
