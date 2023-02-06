@@ -1,6 +1,9 @@
 liu estimator?
 the motivation of using redundency
 
-teaching course: reflection
-2 channel calibration
 research ideas
+
+stationarity/time series causal inference
+causal inference pokeman
+
+allen 方差
