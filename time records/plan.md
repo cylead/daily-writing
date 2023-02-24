@@ -1,7 +1,6 @@
 things to do
-2 channel calibration report 70%
+
 面试邮件
-teaching plan 
 
 liu estimator ? 10%
 the motivation of using redundency 0%
@@ -16,5 +15,5 @@ the shawshank redemption 总结 20%
 杀球回动
 艺术哲学 30%
 
-光之来处 10%
+光之来处 20%
 
