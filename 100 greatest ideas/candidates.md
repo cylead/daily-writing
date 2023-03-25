@@ -22,3 +22,5 @@ Statistics
 暴力手段带来的经济利益是无穷的：大英博物馆例子
 
 kant: human as the end, 马斯洛 整合理论 《存在心理学探寻》
+
+teaching: based on students, not the teachers
