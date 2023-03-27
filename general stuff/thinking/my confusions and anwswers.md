@@ -86,4 +86,7 @@ dan's dilemma: 马塞诸塞州的参议院主席和哥哥，自古忠义难两�
 
 ### 视频和图片平台的广告收益
 https://www.economist.com/business/2023/03/21/how-tiktok-broke-social-media
-抖音和youtube的广告收益比不上instagram和facebook，为什么？
+抖音和youtube的每分钟广告收益比不上instagram和facebook，为什么？
+
+### mac key chain?
+use mac passward for a moment 

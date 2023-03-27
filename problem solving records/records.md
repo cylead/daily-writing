@@ -19,6 +19,13 @@ analogy: collection of rays that starts at the origin
    1. eigenvalue
    2. leading principal minors are all nonnegative
 
+### Operations that preserve convexity
+1. Affine function: $R^n$ -> $R^m$, y = Ax+b (this is a specical case, [definition](https://mathworld.wolfram.com/AffineFunction.html))
+   1. Think about the svd of A, it is rotation + stretch + translation
+2. The sum of two convex sets is convex
+   1. p38/v7 27min: use the direct or Cartesian product + affine function
+3. The solution set to the linear matrix inequality (LMI) is convex
+   1. p38: why R^n -> S^m is an affine function? 
 ### from colleagues
 Sara: lower bound of sum of products of comminatory and exp
 tried: stirling's approximaton
