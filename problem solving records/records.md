@@ -54,6 +54,26 @@ analogy: collection of rays that starts at the origin
    1.  min max optimizaton, game theory, GAN, SVM
    2.  log-sum-exp
 
+### LLM
+### what I am interested in
+1. why are llm so good
+   1. me: the capacity of the "sequences of tokens" is so large, everything that can be described by language could be included
+2. how to train them
+3. how to evaluate them
+### not interested so far 
+1. risks
+### LM
+#### definition
+1. probability distribution over sequences of tokens
+   1. A token can be a word, punctuation mark, or number, etc.
+#### properties of LLM
+1. Emergence
+2. main capability: conditional generation, but this is a general capability
+3. In-context learning:  a large language model learns to accomplish a task after seeing only a few examples — despite the fact that it **wasn't trained for that task**
+#### How to perfrom adaptation on LLMs?
+
+
+
 ### from colleagues
 Sara: lower bound of sum of products of comminatory and exp
 tried: stirling's approximaton
