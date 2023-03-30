@@ -29,7 +29,7 @@ analogy: collection of rays that starts at the origin
 4. Eucliean ball to the ellipsoid is an affine mapping
    1. p39 $\|P^{=1/2}(x-x_c)\|\leq 1$
 5. perspective function
-   1. dimention reduction, not by projection, but by connecting through a hole
+   1. dimension reduction, not by projection, but by connecting through a hole
    2. prove that under the perspective function, line segment is transformed to another line segment. (just prove the one-to-one mapping)
 6. Linear-fractional functions (import non-linear function): affine + perspective
    1. eg: joint probability -> conditional probablity
