@@ -53,6 +53,46 @@ analogy: collection of rays that starts at the origin
 9. max function related
    1.  min max optimizaton, game theory, GAN, SVM
    2.  log-sum-exp
+       1. prove it is convex: second order, use the definition of positive semi-definite
+10. log matrix determinant function is concave
+    1.  degenerated case
+    2.  use the second definition of convex/concave, the key to simplify the determinant is to write matrix as the product of other matrix (matrix decomposition) end of v13
+11. operations that preserve convexity
+    1.  nonnegative weighted sums -> generalized to integral
+    2.  composition with an affine mapping
+    3.  point wise maximum and supremum
+12. prove that sum of r largest components of a vector is a convex function 
+   1. affine + maximum 
+13. prove that spectral norm/induced 2-norm is convex
+    1.  supremum, end of v14
+14. The 4 cases of composition function
+    1. do not have to remember them
+    2. scalar case, 2nd differentiable 
+    3. other: extension is necessary!
+ 15. KL divergence convexity
+     1.  special case of the perspective of function
+     2.  special case of the Bregman divergence (not necessarily convex)
+ 16. conjugate function
+     1.  how to geometrically interpret it? p91
+     2.  the conjugate function is convex, interpretation: the sup of a set of lines. useful for later optimization 
+     3.  the conjugate conjugate is not the function itself, only when the function is convex and closed (p94)
+ 17. Quasi convex (unimodal function): all the alpha-sublevel set is convex 
+     1.  also, quasiconcave, quasilinear,
+     2.  the unimodal function optimization problem can be solved using convex optimization method (eg, GD), but multimodal function opt is hard.
+     3.  eg: Quasi convex but concave:  -e^x
+     4.  inequality definition, geometric interpretation
+18. the linear-fraction function is a quasiconvex function 
+     1.  a convex set will be mapped to a convex set by the linear-fraction function, but the function is not necessarily convex
+19. prove that the vector geometric mean is concave on a specical domain (v19 quiz)
+    1.  2nd condition on 3.1.5 not correct!
+20. the zero norm is quasiconvex in the 1 dimensional case, not quasiconvex in the 2 dimensional case, but possible to use other functions to approximate
+21. four definition of quasiconvex function
+22. leading submatrix of a positive semidefinite matrix is still positive semidefinite?
+    1.  use the definition, or the determinant property.
+23. link between convex sets and convex function   
+    1.  epigraph (special case of alpha-sublevel set)
+    2.  quasiconvex
+
 
 ### LLM
 ### what I am interested in
