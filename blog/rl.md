@@ -17,9 +17,3 @@
     1.  **optimal action-value function**
 13. **optimal Bellman equation**
 14. **state-value function**
-
-The Completionists 
-lalazy
-Summer Bucketeers 
-synony
-researchgate

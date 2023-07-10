@@ -3,6 +3,7 @@ abdicate, 7 habits
 alexia, how we learn
 amorphous, GTD
 ammunition, 7 habits
+annealing, 
 astute, 7 habits
 attendant, 7 habits
 
@@ -45,6 +46,7 @@ perilous, 7 habits
 phantom,  7 habits
 pediatricians, how we learn
 pathology, how we learn
+phonemes, 
 
 ## q 
 quintessence, how we learn

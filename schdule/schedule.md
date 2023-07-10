@@ -21,7 +21,7 @@
 
 230627-230702
 1. Personal Development
-   1. 锻炼身体 体能 羽毛球（周三晚komet）
+   1. 锻炼身体 体能 羽毛球（周三晚komet）ok
    2. 阅读 7 habits，how we learn
 2. Boyfriend
    1. 看电影 ennio 
@@ -29,7 +29,7 @@
 3. researcher
    1. 强化学习  阅读drl
 4. friends and other
-   1. 运动：羽毛球
-   2. 吃法：周一晚在家，周二晚小羊
+   1. 运动：羽毛球 ok
+   2. 吃法：周一晚在家 ok，周二晚小羊 ok
 5. son
    1. 打电话
