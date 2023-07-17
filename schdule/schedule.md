@@ -33,3 +33,17 @@
    2. 吃法：周一晚在家 ok，周二晚小羊 ok
 5. son
    1. 打电话
+
+230717-230723
+1. Personal Development
+   1. 锻炼身体 体能 羽毛球（?）
+   2. 阅读 photography， rethink, 诡计， 5 elements
+2. Boyfriend
+   1. 周一 看电影 野草莓
+   2. 周日 小羊
+3. researcher
+   1. 强化学习  rl 视频
+4. friends and other
+   1. 运动：羽毛球 
+5. son
+   1. 打电话
