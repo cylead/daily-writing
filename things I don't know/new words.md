@@ -1,108 +1,154 @@
 ## a
 abdicate, 7 habits
-agility, 
+abyss, 5 elements 
+agility, rethink
 alexia, how we learn
 amorphous, GTD
 ammunition, 7 habits
 annealing, how we learn
-anthropomorphize, 
-appease, 
+anthropomorphize, anthropomorphize
+appease, photography
 astute, 7 habits
 attendant, 7 habits
+avail, photography
 
 ## b 
-beakers, 
+backlit, photography
+beakers, rethink
 bide, 7 habits
+binocular vision, 
+blotchy, photography
 boilerplate, gymnasium
-bumpy, 
+bumpy, rethink
 
 ## c 
-congruent, 7 habits
+cacophony, photography
+cardinal, photography
 catalyst,  7 habits
-chainsaw, 
+chainsaw, rethink
+chipmunk, photography
 chronic, GTD
-chronicle, 
-cremate, 
+chronicle, rethink
+congruent, 7 habits
+confines, photography
+cremate, photography
+cubist paintings, photography
+
 
 ## d 
+daunting, 5 elements
 debilitating, how we learn,
-debunk, 
+debunk, rethink
+delicacy, photography
 disciple, 7 habits
-ditch, 
-duped, 
+ditch, rethink
+duped, rethink
+disposition, how we learn
+
 
 ## e 
-echolocation, 
+echolocation, rethink
 embryonic, 7 habits
 epitaph, 7 habits
 elucidate, how we learn
-entrenched, 
-## f 
-fervor, 
+embattled, 5 elements
+entrenched, rethink
+exasperation, 5 elements
+exposition, 5 elements
 
+## f 
+fervor, rethink
+fluff， 5 elements
+foliage, photography
 
 ## g
 gofer, 7 habits
-gulch, 
-gullibility, 
+grotesqueries, art
+gulch, rethink
+gullibility, rethink
 
 ## i  
+innate, photography
 inordinate, 7 habits
+
+## l 
+lucrative, 5 elements
+
 
 ## m
 machetes, 7 habits
+meadow, photography
 metamorphosis,  7 habits
 mirage, GTD
 minutiae, GTD
-miser, 
-morph,  
+miser, rethink
+morph,  rethink
+
+## n 
+nuances, photography
 
 ## o 
 orangeade, GTD
-Oval Office, 
+Oval Office, rethink
 
 ## p 
-pangs, 
-parachuting, 
+pangs, rethink
+parachuting, rethink
 parlor, 7 habits
 perilous, 7 habits
 paleontologist, 
-petri dish, 
+penitence, art
+petri dish, rethink
 phantom,  7 habits
+phonemes, how we learn
 pediatricians, how we learn
 pathology, how we learn
-politicking, 
-phonemes, how we learn
+politicking, rethink
+ponderous, photography
+primeval, 5 elements
+promenaders, 5 elements
 
 ## q 
 quintessence, how we learn
-
+quintessential, photography
 
 ## r 
-resourceful, 7 habits
 reap what you sow, perfect day
+resemblance, night watch
+resourceful, 7 habits
+retort, photography
+revelation, photography
+riveting, 5 elements
 
 ## s 
-scorching, 
-sensation, 
-shed, 
+scorching, rethink
+sensation, rethink
+shed, rethink
 sheepishly, GTD
 somersaults, GTD
-squeaky, 
-stewardship,  habits
+squeaky, rethink
+squelch, photography
+stewardship, habits
 submissive, 7 habits
+swivel, 
+
 
 ## t 
 tactile, how we learn
+tepid, 5 elements
 thrust, 7 habits
-tickle, 
+tickle, rethink
 trampoline, GTD
 trachea， how we learn
-tyrannosaurs, 
+tyrannosaurs, photography
 
+## u  
+undulating, photography
 
 ## v
+vaults, photography
 vindictive, 7 habits
 vicissitude, 7 habits
-vogue, 
+vista, photography
+vogue, rethink
 
